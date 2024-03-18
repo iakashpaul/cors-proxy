@@ -1,6 +1,6 @@
-# CORS-Proxy
+# CORS-Proxy 🔀
 
-A CORS proxy for various services
+A quick CORS proxy for various services
 
 Instead of an nginx reverse proxy, I chose to just plug in a FastAPI route for service status & reverse proxying to Baseten(can be any provider like Replicate etc).
 
